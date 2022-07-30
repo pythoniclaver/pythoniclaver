@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythoniclaver" alt="pythoniclaver" /></a> </p>
 
-- 🔭 I’m currently working on [15 JavaScript Project From basic to advance](https://github.com/pythoniclaver/couple-of-javascript-project)
+- 🔭 I’m currently working on [On a project that compares two github users and determine the productivity of both and returns a winner 🏆 and a loser based on their followers, stars, folk, commit, and repo](https://github.com/pythoniclaver/github-battle)
 
 - 🌱 I’m currently learning **React Native,**
 
